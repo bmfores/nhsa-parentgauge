@@ -1,0 +1,28 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+*.venv
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Datasets
+*.csv
+*.xlsx
+*.xls
+
+# Log files
+*.log
+
+# Configuration files with sensitive information
+config.yaml
+
+# OS generated files
+.DS_Store  # For Mac
+Thumbs.db   # For Windows
+desktop.ini # For Windows
