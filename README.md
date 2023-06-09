@@ -8,12 +8,12 @@ The NHSA’s Parent Gauge tool has collected a rich dataset through years of int
 
 ## Repository Structure
 
-data_cleaning/: Directory containing scripts and notebooks used for cleaning and preparing the dataset for analysis.
+- data_cleaning/: Directory containing scripts and notebooks used for cleaning and preparing the dataset for analysis.
 exploratory_data_analysis/: Directory containing scripts and notebooks used for exploratory data analysis.
-advanced_analysis/: Directory containing scripts and notebooks that apply advanced analytical techniques such as natural language processing and machine learning.
-.gitignore: A file containing patterns that match files or directories that Git should ignore.
-README.md: The file you are currently reading.
-Note: The actual dataset is not included in this repository for privacy and security reasons.
+- advanced_analysis/: Directory containing scripts and notebooks that apply advanced analytical techniques such as natural language processing and machine learning.
+- .gitignore: A file containing patterns that match files or directories that Git should ignore.
+- README.md: The file you are currently reading.
+- Note: The actual dataset is not included in this repository for privacy and security reasons.
 
 ## Tools and Libraries Used
 
