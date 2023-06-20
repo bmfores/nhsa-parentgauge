@@ -66,7 +66,7 @@ Below is the MIT License text for reference, but please also see the [LICENSE](.
 
 MIT License
 
-Copyright (c) 2023 National Head Start Association
+Copyright (c) 2023 Bryan Michael Fores
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
